@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me: e-mail robson.hashi@outlook.com
 
-<img src="java.png" width="50"> <img src="css.png" width="50"> <img src="html.png" width="50">
+<img src="java.png" width="50"> <img src="css.png" width="70">
