@@ -8,4 +8,5 @@
  
 <img src="java.png" width="70"><img src="angular.png" width="55">   <img src="c++.png" width="42"><img src="bootstrap.png" width="90"><img src="postgres.png" width="42">
 
-
+------------------------------------------------------------
+- Visit my profissional profile in: https://www.linkedin.com/in/robson-augusto-dos-santos-644094197/
