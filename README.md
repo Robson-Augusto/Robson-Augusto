@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me: e-mail robson.hashi@outlook.com
 
-![angular-icon-logo-vector](https://user-images.githubusercontent.com/99415154/168301777-e55db873-fb13-4290-a70e-7ef3ae8ca8ab.svg)
+Java Flutter nodejs react VueJS python html5 css3 postman
