@@ -6,7 +6,7 @@
 ------------------------------------------------------------
 - 💻 I currently use technologies such as:
 
-<a href="https://www.java.com/pt-BR/"><img src="java.png" width="70"></a><a href="https://angular.io/"><img src="angular.png" width="55"></a>   <a href="https://docs.microsoft.com/pt-br/cpp/cpp/?view=msvc-170"><img src="c++.png" width="42"></a>   <a href="https://getbootstrap.com/"><img src="bootstrap.png" width="90"></a>       <a href="https://www.postgresql.org/"><img src="postgres.png" width="42"></a> <td>&nbsp;</td><td>&nbsp;</td><img src="arduino.png" width="60">
+<a href="https://www.java.com/pt-BR/"><img src="java.png" width="70"></a><a href="https://angular.io/"><img src="angular.png" width="55"></a>   <a href="https://docs.microsoft.com/pt-br/cpp/cpp/?view=msvc-170"><img src="c++.png" width="42"></a>   <a href="https://getbootstrap.com/"><img src="bootstrap.png" width="90"></a>       <a href="https://www.postgresql.org/"><img src="postgres.png" width="42"></a> <td>&nbsp;</td><td>&nbsp;</td><a href="https://www.arduino.cc/"><img src="arduino.png" width="60"></a>
 
 ------------------------------------------------------------<a href="https://angular.io/">
 - Visit my profissional profile in: https://www.linkedin.com/in/robson-augusto-dos-santos-644094197/
