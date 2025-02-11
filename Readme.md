@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Robson-Augusto
 - 👀 I’m interested in programming and information technologies.
-- 🌱 I’m currently work such web programmer at cck company.
+- 🌱 I’m currently work such web programmer at DL company.
 - 💞️ I'm looking to learn and aprimorate more languages of programation.
 - 📫 How to reach me: e-mail robson.hashi@outlook.com
 ------------------------------------------------------------
