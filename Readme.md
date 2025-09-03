@@ -10,5 +10,5 @@
 <a href="https://www.totvs.com/sistema-de-gestao/totvs-backoffice-linha-protheus/"><img src="totvs.png" width="45"></a>
 
 ------------------------------------------------------------
-- 💻 Visit my profissional profile in: <p> </p>
- <a href="https://www.linkedin.com/in/robson-augusto-dos-santos-644094197/"><img src="linkedin.png" width="100"></a>
+- 💻 Visit my professional portifolio in: <p> </p>
+ <a href="https://robson-augusto.github.io/portifolio/#home"></a>
